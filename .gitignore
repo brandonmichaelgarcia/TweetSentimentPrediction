@@ -1,0 +1,5 @@
+TrumpTweets2.numbers
+TrumpTweets2.csv
+
+*.pickle
+classifiers/
